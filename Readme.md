@@ -23,5 +23,4 @@ The predicted HSDs will be manually curated before submitting to the HSDatabase 
 X. Zhang, Yining. Hu, D. Smith (2020). HSDatabase - a database of highly similar duplicate genes in eukaryotic genomes, doi: XX.XX
 
 ### 4. Contact
-For comments and questions, send a message to Xi Zhang (xzha25@uwo.ca).
 Usage of this site follows AWS’s Privacy Policy. In accordance with that policy, we use Matomo to collect anonymised data on visits to, downloads from, and searches of this site.
