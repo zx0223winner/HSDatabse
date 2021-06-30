@@ -27,4 +27,4 @@ Xi Zhang, Yining Hu, David Roy Smith. (2021). Protocol for HSDFinder: Identifyin
 X. Zhang, et.al. D. Smith (2021). Draft genome sequence of the Antarctic green alga _Chlamydomonas_ sp. UWO241 DOI:https://doi.org/10.1016/j.isci.2021.102084
 
 ### 4. Contact
-Usage of this site follows AWS’s Privacy Policy. In accordance with that policy, we use Matomo to collect anonymised data on visits to, downloads from, and searches of this site.
+Usage of this site follows AWS’s Privacy Policy.
