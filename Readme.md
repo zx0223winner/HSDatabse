@@ -20,7 +20,11 @@ HSDatabase is a database of categorizing these highly similar duplicate genes (H
 The predicted HSDs will be manually curated before submitting to the HSDatabase (Figure 1A). We filtered possible false positive HSDs with unfit gene copy length and add novel HSDs if necessary, especially, for those satisfy the criteria of near-identical protein lengths (within 10 amino acids and >80% pairwise identities). HSDatabase is built using a relational database (MySQL) allowing rapid retrieval of data and making resource easily maintainable. One entry corresponds to one eukaryote genome. The genomes can be browsed via the categories of plant and animal or the phylogeny for specific genome target (Figure 1B). The genome entry is then split into many subcategories of HSDs entries. The database access is via a web interface based on python script and provides various ways to search for HSDs entries, such as organism’s name, HSDs accession number, and gene copy name, etc (Figure 1C). HSDatabase can allow users to conveniently BLAST a query to find a homologous match (Figure 1D). HSDatabase will be updated timely and the latest version is HSDatabase v1.5, in which total of XX HSDs in XX plant genomes and XX animal genomes are identified.
 
 ### 3. Reference
-X. Zhang, Yining. Hu, D. Smith (2020). HSDatabase - a database of highly similar duplicate genes in eukaryotic genomes, doi: XX.XX
+X. Zhang, Yining. Hu, D. Smith (2021). HSDatabase - a database of highly similar duplicate genes in eukaryotic genomes, Database. doi: upcoming
+
+Xi Zhang, Yining Hu, David Roy Smith. (2021). Protocol for HSDFinder: Identifying, annotating, categorizing, and visualizing duplicated genes in eukaryotic genomes DOI:https://doi.org/10.1016/j.xpro.2021.100619
+
+X. Zhang, et.al. D. Smith (2021). Draft genome sequence of the Antarctic green alga _Chlamydomonas_ sp. UWO241 DOI:https://doi.org/10.1016/j.isci.2021.102084
 
 ### 4. Contact
 Usage of this site follows AWS’s Privacy Policy. In accordance with that policy, we use Matomo to collect anonymised data on visits to, downloads from, and searches of this site.
